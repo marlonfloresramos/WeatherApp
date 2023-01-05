@@ -14,7 +14,6 @@ A simple weather iOS App that shows the current weather conditions for your loca
 - Go to APIClient > WeatherEndpoint > queryItems > appid and replace the empty value with your current APIKey provided by https://openweathermap.org
 - The current weather conditions for your location will be displayed.
 - To search for the weather in a specific location, tap the search icon and enter the location.
-- To view the 5-day forecast, swipe left or right on the main screen.
 
 # Credits
 Weather data provided by OpenWeatherMap.
